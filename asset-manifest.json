@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Travel-App-React/static/css/main.de72673d.css",
+    "main.js": "/Travel-App-React/static/js/main.615c97f9.js",
+    "static/media/loading.svg": "/Travel-App-React/static/media/loading.f4ab46488b6c3b8e85eba89029e64baa.svg",
+    "index.html": "/Travel-App-React/index.html",
+    "main.de72673d.css.map": "/Travel-App-React/static/css/main.de72673d.css.map",
+    "main.615c97f9.js.map": "/Travel-App-React/static/js/main.615c97f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de72673d.css",
+    "static/js/main.615c97f9.js"
+  ]
+}
